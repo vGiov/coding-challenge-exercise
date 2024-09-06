@@ -1,6 +1,6 @@
 # Exercício de Coding Challenge
 
-Bem-vindo ao repositório de Exercício de Coding Challenge! Este repositório contém diversos exercícios de programação e suas soluções.
+Bem-vindo ao repositório de Exercício de Coding Challenge! Este repositório contém diversos exercícios de programação e suas soluções. Caso queira executar online sem necessidade de configurar ambiente, utilize o [DartPad](https://dartpad.dev/).
 
 ## Executando o Código
 
@@ -8,9 +8,3 @@ Para executar qualquer um dos arquivos Dart neste repositório, use o seguinte c
 
 ```sh
 dart run nomeDoArquivo.dart
-
-### Executando o Código
-Você também pode executar o código Dart online usando o DartPad. Basta copiar o código de qualquer arquivo .dart e colá-lo no DartPad. 
-Isso é útil para testes rápidos e para experimentar o código sem a necessidade de configurar um ambiente local.
-
-https://dartpad.dev/
